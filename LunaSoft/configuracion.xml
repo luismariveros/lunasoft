@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuraciones>	
+	<server>localhost</server>
+	<port>5432</port>
+	<database>lunaclor</database>
+</configuraciones>

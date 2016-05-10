@@ -1,0 +1,138 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\bin\Debug\LunaSoft.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\bin\Debug\LunaSoft.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\bin\Debug\Npgsql.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\bin\Debug\Mono.Security.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\bin\Debug\Npgsql.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\bin\Debug\Npgsql.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFamilias.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmInicio.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFamiliaAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFamiliaModificar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFamiliaVer.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProductos.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProductoAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProductoModificar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProductoVer.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmDepositos.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmDepositoAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\bin\Debug\LunaSoft.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmInventario.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmClientes.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmClienteAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmDepositoVer.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmDepositoModificar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmClienteModificar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmClienteVer.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmVentaAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmTransferencia.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProveedores.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmCompraAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmAjusteAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmUsuarios.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmUsuarioAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFabricacionAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmTipoAjusteAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmLogin.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmListados.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmListadosDetalles.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmListadosSolo.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmCompraModificar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmBackup.resources
+Z:\LunaSoft\LunaSoft\bin\Debug\LunaSoft.exe.config
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.pdb
+Z:\LunaSoft\LunaSoft\bin\Debug\LunaSoft.exe
+Z:\LunaSoft\LunaSoft\bin\Debug\LunaSoft.pdb
+Z:\LunaSoft\LunaSoft\bin\Debug\Npgsql.dll
+Z:\LunaSoft\LunaSoft\bin\Debug\Mono.Security.dll
+Z:\LunaSoft\LunaSoft\bin\Debug\Npgsql.pdb
+Z:\LunaSoft\LunaSoft\bin\Debug\Npgsql.xml
+Z:\LunaSoft\LunaSoft\obj\Debug\ResolveAssemblyReference.cache
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmAjusteAgregar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmBackup.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmClienteAgregar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmClienteModificar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmClientes.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmClienteVer.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmCompraAgregar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmCompraModificar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmDepositoAgregar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmDepositoModificar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmDepositos.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmDepositoVer.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFabricacionAgregar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFamiliaAgregar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFamiliaModificar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFamilias.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFamiliaVer.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmInicio.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmInventario.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmListados.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmListadosDetalles.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmListadosSolo.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmLogin.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProductoAgregar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProductoModificar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProductos.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProductoVer.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProveedores.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmTipoAjusteAgregar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmTransferencia.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmUsuarioAgregar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmUsuarios.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmVentaAgregar.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.Properties.Resources.resources
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.csproj.GenerateResource.Cache
+Z:\LunaSoft\LunaSoft\obj\Debug\LunaSoft.exe
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\bin\Debug\LunaSoft.exe.config
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.exe
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.pdb
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\bin\Debug\LunaSoft.exe
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\bin\Debug\LunaSoft.pdb
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\bin\Debug\Npgsql.dll
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\bin\Debug\Mono.Security.dll
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\bin\Debug\Npgsql.pdb
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\bin\Debug\Npgsql.xml
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmAjusteAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmBackup.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmClienteAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmClienteModificar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmClientes.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmClienteVer.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmCompraAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmCompraModificar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmDepositoAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmDepositoModificar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmDepositos.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmDepositoVer.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFabricacionAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFamiliaAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFamiliaModificar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFamilias.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmFamiliaVer.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmInicio.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmInventario.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmListados.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmListadosDetalles.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmListadosSolo.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmLogin.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProductoAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProductoModificar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProductos.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProductoVer.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmProveedores.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmTipoAjusteAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmTransferencia.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmUsuarioAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmUsuarios.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmVentaAgregar.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmTipoAjustes.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmListadoHistoricoProducto.resources
+C:\Documents and Settings\Administrator\My Documents\LunaSoft\LunaSoft\obj\Debug\LunaSoft.frmListadoSeleccionImpresion.resources
